@@ -1,0 +1,20 @@
+﻿438564358764357864325
+345867435876435786435
+345987435897458475454
+
+
+companyid plantid - employeeid- datetime
+
+01 01 00001 20160526144040
+01 01 00002 20160526144050
+
+
+
+barcode generate with jQuery link:
+http://barcode-coder.com/en/
+
+
+
+
+
+

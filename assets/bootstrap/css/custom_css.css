@@ -1,0 +1,109 @@
+
+/*##### the table stuff #####*/
+table {
+    font-size: 14px;
+    border-collapse:collapse;
+    font-family:Tahoma,Helvetica,Arial,sans-serif;
+}
+td, th {
+    text-align:left;
+    vertical-align:top;
+}
+
+tr{
+    marging:0;
+    padding:0;
+}
+
+table td, table th {
+    border:1px solid #CCC;
+    font-size:1em;
+    padding:3px;
+}
+
+table.sar-table th {
+    background:none repeat scroll 0 0 #FBF9EA;
+    color:#000;
+    font-weight:normal;
+    font-size: 1.1em;
+    padding:0 7px;
+    cursor:move;
+    text-align: center;
+    vertical-align:middle !important
+}
+
+.submitbtnwidth {width:70px; height: 40px}
+.submitbtnwidth:hover{box-shadow:0px 0px 15px gray; font-weight: 600}
+
+.dataTables_length {font-size: 1.3em;}
+.dataTables_length .input-sm {font-size: 1em;}
+
+
+.headtitlebackgroudgradient{
+
+ background-color:#d5f4e6;
+ filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#d5f4e6, endColorstr=#80ced6);
+ background-image:-moz-linear-gradient(top, #d5f4e6 95%, #80ced6 0%);
+ background-image:-webkit-linear-gradient(top, #d5f4e6 95%, #80ced6 0%);
+ background-image:-ms-linear-gradient(top, #d5f4e6 95%, #80ced6 0%);
+ background-image:linear-gradient(top, #d5f4e6 95%, #80ced6 0%);
+ background-image:-o-linear-gradient(top, #d5f4e6 95%, #80ced6 0%);
+ background-image:-webkit-gradient(linear, right top, right bottom, color-stop(95%,#d5f4e6), color-stop(0%,#80ced6));}
+
+.action_message_body_success {background-color:#F0FFFF; font-size: 1em; color:green;}
+.action_message_body_fail {background-color:#FFF8DC; font-size: 1em; color:#FA8072;}
+
+#empl_leave_status_details_pvt  th{padding:0px 5px}
+#tableempeducation  th{padding:0px 5px}
+#tableempexperience  th{padding:0px 5px}
+
+
+
+
+
+
+
+/* @group Blink */
+.blink {
+	-webkit-animation: blink .75s linear infinite;
+	-moz-animation: blink .75s linear infinite;
+	-ms-animation: blink .75s linear infinite;
+	-o-animation: blink .75s linear infinite;
+	 animation: blink .75s linear infinite;
+}
+@-webkit-keyframes blink {
+	0% { opacity: 1; }
+	50% { opacity: 1; }
+	50.01% { opacity: 0; }
+	100% { opacity: 0; }
+}
+@-moz-keyframes blink {
+	0% { opacity: 1; }
+	50% { opacity: 1; }
+	50.01% { opacity: 0; }
+	100% { opacity: 0; }
+}
+@-ms-keyframes blink {
+	0% { opacity: 1; }
+	50% { opacity: 1; }
+	50.01% { opacity: 0; }
+	100% { opacity: 0; }
+}
+@-o-keyframes blink {
+	0% { opacity: 1; }
+	50% { opacity: 1; }
+	50.01% { opacity: 0; }
+	100% { opacity: 0; }
+}
+@keyframes blink {
+	0% { opacity: 1; }
+	50% { opacity: 1; }
+	50.01% { opacity: 0; }
+	100% { opacity: 0; }
+}
+/* @end */
+-->
+
+
+
+

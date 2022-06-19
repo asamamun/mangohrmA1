@@ -1,0 +1,9 @@
+#form-container {
+	padding: 20px 0;
+}
+
+#form-container h1{
+	font-size: 200%;
+	text-align: center;	
+	margin-bottom: 50px;
+}
